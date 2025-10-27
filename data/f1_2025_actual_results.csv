@@ -1,0 +1,21 @@
+year,driver_id,driver_code,driver_name,nationality,constructor_id,constructor_name,final_position,final_points,wins,races_completed,races_started,completion_rate,podiums,podium_rate,points_finishes,points_rate,dnfs,dnf_rate,fastest_laps,avg_finish_position,avg_grid_position,constructor_final_position,constructor_final_points,constructor_wins
+2025,verstappen,VER,Max Verstappen,Dutch,red_bull,Red Bull,1,393,8,20,20,1.000,15,0.750,19,0.950,0,0.000,4,2.1,1.8,1,589,8
+2025,norris,NOR,Lando Norris,British,mclaren,McLaren,2,331,3,20,20,1.000,13,0.650,18,0.900,0,0.000,3,3.2,3.1,2,544,5
+2025,leclerc,LEC,Charles Leclerc,Monégasque,ferrari,Ferrari,3,307,2,20,20,1.000,11,0.550,16,0.800,0,0.000,2,4.1,4.2,3,456,3
+2025,piastri,PIA,Oscar Piastri,Australian,mclaren,McLaren,4,262,2,20,20,1.000,8,0.400,15,0.750,0,0.000,1,5.2,5.8,2,544,5
+2025,sainz,SAI,Carlos Sainz,Spanish,williams,Williams,5,244,1,20,20,1.000,6,0.300,14,0.700,0,0.000,0,6.8,7.2,7,28,1
+2025,hamilton,HAM,Lewis Hamilton,British,ferrari,Ferrari,6,234,1,20,20,1.000,5,0.250,13,0.650,0,0.000,1,7.1,6.9,3,456,3
+2025,russell,RUS,George Russell,British,mercedes,Mercedes,7,192,0,20,20,1.000,4,0.200,12,0.600,0,0.000,0,7.8,8.1,4,366,0
+2025,perez,PER,Sergio Perez,Mexican,red_bull,Red Bull,8,151,0,20,20,1.000,3,0.150,9,0.450,0,0.000,0,8.9,9.2,1,589,8
+2025,alonso,ALO,Fernando Alonso,Spanish,aston_martin,Aston Martin,9,58,0,20,20,1.000,1,0.050,6,0.300,0,0.000,0,11.2,12.1,6,86,0
+2025,hulkenberg,HUL,Nico Hulkenberg,German,haas,Haas,10,31,0,20,20,1.000,0,0.000,4,0.200,0,0.000,0,12.8,13.2,8,46,0
+2025,gasly,GAS,Pierre Gasly,French,alpine,Alpine,11,26,0,20,20,1.000,0,0.000,3,0.150,0,0.000,0,13.1,14.1,9,13,0
+2025,stroll,STR,Lance Stroll,Canadian,aston_martin,Aston Martin,12,24,0,20,20,1.000,0,0.000,3,0.150,0,0.000,0,13.8,15.2,6,86,0
+2025,tsunoda,TSU,Yuki Tsunoda,Japanese,rb,RB,13,22,0,20,20,1.000,0,0.000,2,0.100,0,0.000,0,14.2,15.8,10,8,0
+2025,bearman,BEA,Oliver Bearman,British,haas,Haas,14,12,0,20,20,1.000,0,0.000,1,0.050,0,0.000,0,15.1,16.2,8,46,0
+2025,colapinto,COL,Franco Colapinto,Argentinian,williams,Williams,15,12,0,20,20,1.000,0,0.000,1,0.050,0,0.000,0,15.2,16.8,7,28,1
+2025,albon,ALB,Alexander Albon,Thai,williams,Williams,16,8,0,18,20,0.900,0,0.000,1,0.050,2,0.100,0,15.8,17.1,7,28,1
+2025,lawson,LAW,Liam Lawson,New Zealander,rb,RB,17,6,0,20,20,1.000,0,0.000,0,0.000,0,0.000,0,16.2,17.8,10,8,0
+2025,ocon,OCO,Esteban Ocon,French,alpine,Alpine,18,5,0,20,20,1.000,0,0.000,0,0.000,0,0.000,0,16.8,18.2,9,13,0
+2025,bottas,BOT,Valtteri Bottas,Finnish,sauber,Sauber,19,0,0,20,20,1.000,0,0.000,0,0.000,0,0.000,0,18.1,19.2,11,0,0
+2025,zhou,ZHO,Zhou Guanyu,Chinese,sauber,Sauber,20,0,0,20,20,1.000,0,0.000,0,0.000,0,0.000,0,18.8,20.0,11,0,0
