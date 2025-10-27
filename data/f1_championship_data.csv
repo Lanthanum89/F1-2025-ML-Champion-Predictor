@@ -48,29 +48,24 @@ year,driver_id,driver_code,driver_name,nationality,constructor_id,constructor_na
 2024,russell,RUS,George Russell,British,mercedes,Mercedes,7,245,1,24,24,1.000,3,0.125,15,0.625,0,0.000,0,6.8,7.8,4,468,2
 2024,perez,PER,Sergio Perez,Mexican,red_bull,Red Bull,8,152,0,23,24,0.958,2,0.083,10,0.417,1,0.042,0,9.8,10.2,1,589,9
 2024,alonso,ALO,Fernando Alonso,Spanish,aston_martin,Aston Martin,9,62,0,24,24,1.000,0,0.000,5,0.208,0,0.000,0,12.1,13.2,5,94,0
-# Clean 2025 F1 Championship Data - Current Standings (October 27, 2025)
-# Format: year,driver_id,driver_code,driver_name,nationality,constructor_id,constructor_name,final_position,final_points,wins,races_completed,races_started,completion_rate,podiums,podium_rate,points_finishes,points_rate,dnfs,dnf_rate,fastest_laps,avg_finish_position,avg_grid_position,constructor_final_position,constructor_final_points,constructor_wins
-
-# Corrected 2025 F1 Championship Data - Norris 1 point ahead of Piastri (October 27, 2025)
-# Format: year,driver_id,driver_code,driver_name,nationality,constructor_id,constructor_name,final_position,final_points,wins,races_completed,races_started,completion_rate,podiums,podium_rate,points_finishes,points_rate,dnfs,dnf_rate,fastest_laps,avg_finish_position,avg_grid_position,constructor_final_position,constructor_final_points,constructor_wins
-
-2025,norris,NOR,Lando Norris,British,mclaren,McLaren,1,430,4,21,21,1.000,12,0.571,19,0.905,0,0.000,2,3.1,2.8,1,779,6
-2025,piastri,PIA,Oscar Piastri,Australian,mclaren,McLaren,2,429,3,21,21,1.000,9,0.429,17,0.810,0,0.000,1,4.2,4.5,1,779,6
-2025,leclerc,LEC,Charles Leclerc,Monegasque,ferrari,Ferrari,3,341,3,21,21,1.000,10,0.476,17,0.810,0,0.000,1,4.2,4.1,2,564,4
-2025,verstappen,VER,Max Verstappen,Dutch,red_bull,Red Bull Racing,4,317,8,21,21,1.000,14,0.667,20,0.952,0,0.000,4,2.3,1.9,3,469,8
-2025,sainz,SAI,Carlos Sainz,Spanish,williams,Williams,5,244,2,21,21,1.000,6,0.286,13,0.619,0,0.000,0,6.8,6.2,4,256,2
-2025,hamilton,HAM,Lewis Hamilton,British,ferrari,Ferrari,6,223,2,21,21,1.000,5,0.238,12,0.571,0,0.000,1,7.4,7.1,2,564,4
-2025,russell,RUS,George Russell,British,mercedes,Mercedes,7,192,2,21,21,1.000,4,0.190,11,0.524,0,0.000,0,8.2,7.8,5,204,2
-2025,perez,PER,Sergio Perez,Mexican,red_bull,Red Bull Racing,8,152,0,21,21,1.000,3,0.143,9,0.429,0,0.000,0,9.8,9.4,3,469,8
-2025,alonso,ALO,Fernando Alonso,Spanish,aston_martin,Aston Martin,9,68,0,21,21,1.000,1,0.048,6,0.286,0,0.000,0,11.8,11.2,6,93,0
-2025,hulkenberg,HUL,Nico Hulkenberg,German,haas,Haas,10,37,0,21,21,1.000,0,0.000,4,0.190,0,0.000,0,13.1,13.6,8,53,0
-2025,gasly,GAS,Pierre Gasly,French,alpine,Alpine,11,26,0,21,21,1.000,0,0.000,3,0.143,0,0.000,0,14.4,14.8,9,34,0
-2025,stroll,STR,Lance Stroll,Canadian,aston_martin,Aston Martin,12,25,0,21,21,1.000,0,0.000,3,0.143,0,0.000,0,15.2,15.8,6,93,0
-2025,tsunoda,TSU,Yuki Tsunoda,Japanese,rb,RB,13,22,0,21,21,1.000,0,0.000,2,0.095,0,0.000,0,15.8,16.1,7,30,0
-2025,bearman,BEA,Oliver Bearman,British,haas,Haas,14,16,0,21,21,1.000,0,0.000,1,0.048,0,0.000,0,16.4,16.9,8,53,0
-2025,albon,ALB,Alexander Albon,Thai,williams,Williams,15,12,0,19,21,0.905,0,0.000,1,0.048,2,0.095,0,17.1,17.4,4,256,2
-2025,colapinto,COL,Franco Colapinto,Argentine,williams,Williams,16,12,0,11,11,1.000,0,0.000,1,0.091,0,0.000,0,17.6,18.2,4,256,2
-2025,lawson,LAW,Liam Lawson,New Zealander,rb,RB,17,8,0,21,21,1.000,0,0.000,0,0.000,0,0.000,0,18.2,18.8,7,30,0
-2025,ocon,OCO,Esteban Ocon,French,alpine,Alpine,18,8,0,21,21,1.000,0,0.000,0,0.000,0,0.000,0,18.8,19.1,9,34,0
-2025,bortoleto,BOR,Gabriel Bortoleto,Brazilian,kick_sauber,Kick Sauber,19,0,0,10,10,1.000,0,0.000,0,0.000,0,0.000,0,19.8,20.1,10,0,0
-2025,zhou,ZHO,Guanyu Zhou,Chinese,kick_sauber,Kick Sauber,20,0,0,11,11,1.000,0,0.000,0,0.000,0,0.000,0,20.2,20.5,10,0,0
+2025,norris,NOR,Lando Norris,British,mclaren,McLaren,1,357,6,21,21,1.000,16,0.762,20,0.952,0,0.000,3,2.8,2.5,1,713,13
+2025,piastri,PIA,Oscar Piastri,Australian,mclaren,McLaren,2,356,7,21,21,1.000,14,0.667,19,0.905,0,0.000,2,3.2,3.8,1,713,13
+2025,verstappen,VER,Max Verstappen,Dutch,red_bull,Red Bull Racing,3,321,5,21,21,1.000,11,0.524,18,0.857,0,0.000,4,4.1,2.1,2,349,5
+2025,russell,RUS,George Russell,British,mercedes,Mercedes,4,258,2,21,21,1.000,8,0.381,16,0.762,0,0.000,1,5.8,4.9,3,355,2
+2025,leclerc,LEC,Charles Leclerc,Monegasque,ferrari,Ferrari,5,210,0,21,21,1.000,7,0.333,14,0.667,0,0.000,0,7.2,6.4,4,356,0
+2025,hamilton,HAM,Lewis Hamilton,British,ferrari,Ferrari,6,146,0,21,21,1.000,0,0.000,10,0.476,0,0.000,0,9.8,8.7,4,356,0
+2025,antonelli,ANT,Andrea Kimi Antonelli,Italian,mercedes,Mercedes,7,97,0,21,21,1.000,1,0.048,7,0.333,0,0.000,0,11.2,10.5,3,355,2
+2025,albon,ALB,Alexander Albon,Thai,williams,Williams,8,73,0,21,21,1.000,0,0.000,6,0.286,0,0.000,0,12.8,12.1,5,111,0
+2025,hulkenberg,HUL,Nico Hulkenberg,German,kick_sauber,Kick Sauber,9,41,0,21,21,1.000,1,0.048,4,0.190,0,0.000,0,14.2,13.8,6,60,0
+2025,hadjar,HAD,Isack Hadjar,French,rb,RB,10,39,0,21,21,1.000,1,0.048,3,0.143,0,0.000,0,15.1,14.6,7,69,0
+2025,sainz,SAI,Carlos Sainz,Spanish,williams,Williams,11,38,0,21,21,1.000,1,0.048,3,0.143,0,0.000,0,15.4,15.2,5,111,0
+2025,alonso,ALO,Fernando Alonso,Spanish,aston_martin,Aston Martin,12,37,0,21,21,1.000,0,0.000,3,0.143,0,0.000,0,15.8,15.9,8,69,0
+2025,bearman,BEA,Oliver Bearman,British,haas,Haas,13,32,0,21,21,1.000,0,0.000,2,0.095,0,0.000,0,16.5,16.8,9,62,0
+2025,stroll,STR,Lance Stroll,Canadian,aston_martin,Aston Martin,14,32,0,21,21,1.000,0,0.000,2,0.095,0,0.000,0,16.8,17.1,8,69,0
+2025,lawson,LAW,Liam Lawson,New Zealander,rb,RB,15,30,0,21,21,1.000,0,0.000,2,0.095,0,0.000,0,17.2,17.5,7,69,0
+2025,ocon,OCO,Esteban Ocon,French,haas,Haas,16,30,0,21,21,1.000,0,0.000,2,0.095,0,0.000,0,17.5,17.8,9,62,0
+2025,tsunoda,TSU,Yuki Tsunoda,Japanese,red_bull,Red Bull Racing,17,28,0,21,21,1.000,0,0.000,1,0.048,0,0.000,0,18.1,18.4,2,349,5
+2025,gasly,GAS,Pierre Gasly,French,alpine,Alpine,18,20,0,21,21,1.000,0,0.000,1,0.048,0,0.000,0,18.8,19.2,10,20,0
+2025,bortoleto,BOR,Gabriel Bortoleto,Brazilian,kick_sauber,Kick Sauber,19,19,0,21,21,1.000,0,0.000,1,0.048,0,0.000,0,19.4,19.8,6,60,0
+2025,colapinto,COL,Franco Colapinto,Argentine,alpine,Alpine,20,0,0,21,21,1.000,0,0.000,0,0.000,0,0.000,0,20.1,20.4,10,20,0
+2025,doohan,DOO,Jack Doohan,Australian,alpine,Alpine,21,0,0,21,21,1.000,0,0.000,0,0.000,0,0.000,0,20.5,20.8,10,20,0
