@@ -1,0 +1,21 @@
+year,driver_id,driver_code,driver_name,nationality,constructor_id,constructor_name,final_position,final_points,wins,races_completed,races_started,completion_rate,podiums,podium_rate,points_finishes,points_rate,dnfs,dnf_rate,fastest_laps,avg_finish_position,avg_grid_position,constructor_final_position,constructor_final_points,constructor_wins
+2025,verstappen,VER,Max Verstappen,Dutch,red_bull,Red Bull,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,8.0,4.0,1,600,8
+2025,hamilton,HAM,Lewis Hamilton,British,ferrari,Ferrari,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,6.0,6.0,2,500,3
+2025,leclerc,LEC,Charles Leclerc,Monégasque,ferrari,Ferrari,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,7.0,5.0,2,500,3
+2025,norris,NOR,Lando Norris,British,mclaren,McLaren,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,5.0,7.0,1,650,6
+2025,piastri,PIA,Oscar Piastri,Australian,mclaren,McLaren,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,6.0,8.0,1,650,6
+2025,russell,RUS,George Russell,British,mercedes,Mercedes,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,7.0,9.0,3,450,2
+2025,antonelli,ANT,Andrea Kimi Antonelli,Italian,mercedes,Mercedes,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,10.0,12.0,3,450,2
+2025,perez,PER,Sergio Perez,Mexican,red_bull,Red Bull,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,9.0,10.0,1,600,8
+2025,sainz,SAI,Carlos Sainz,Spanish,williams,Williams,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,12.0,11.0,7,100,0
+2025,albon,ALB,Alexander Albon,Thai,williams,Williams,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,13.0,13.0,7,100,0
+2025,gasly,GAS,Pierre Gasly,French,alpine,Alpine,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,11.0,14.0,6,150,0
+2025,ocon,OCO,Esteban Ocon,French,alpine,Alpine,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,12.0,15.0,6,150,0
+2025,alonso,ALO,Fernando Alonso,Spanish,aston_martin,Aston Martin,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,10.0,11.0,5,200,0
+2025,stroll,STR,Lance Stroll,Canadian,aston_martin,Aston Martin,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,14.0,16.0,5,200,0
+2025,hulkenberg,HUL,Nico Hulkenberg,German,haas,Haas,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,13.0,14.0,8,80,0
+2025,bearman,BEA,Oliver Bearman,British,haas,Haas,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,15.0,17.0,8,80,0
+2025,tsunoda,TSU,Yuki Tsunoda,Japanese,rb,RB,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,14.0,15.0,9,60,0
+2025,lawson,LAW,Liam Lawson,New Zealander,rb,RB,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,16.0,18.0,9,60,0
+2025,bottas,BOT,Valtteri Bottas,Finnish,sauber,Sauber,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,17.0,19.0,10,20,0
+2025,zhou,ZHO,Zhou Guanyu,Chinese,sauber,Sauber,0,0,0,0,24,1.000,0,0.000,0,0.000,0,0.000,0,18.0,20.0,10,20,0
