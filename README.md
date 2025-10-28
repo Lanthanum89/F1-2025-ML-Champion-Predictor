@@ -2,6 +2,8 @@
 
 A comprehensive machine learning system to predict the Formula 1 2025 World Championship winner using historical race data, driver performance metrics, and advanced feature engineering.
 
+<img width="1406" height="617" alt="image" src="https://github.com/user-attachments/assets/dbac2c2c-72cf-42db-88a1-3ec8a7e9bb38" />
+
 ## 🎯 Project Overview
 
 This project uses historical F1 data from 2010-2024 to train multiple machine learning models that predict championship probabilities for the 2025 F1 season. The system combines data collection, feature engineering, model training, and prediction visualization in a complete ML pipeline.
