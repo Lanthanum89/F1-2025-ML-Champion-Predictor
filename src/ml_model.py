@@ -344,7 +344,7 @@ class F1ChampionshipPredictor:
     def predict_champion_probabilities(self, season_data: pd.DataFrame) -> pd.DataFrame:
         """Predict championship probabilities for drivers in a season"""
         
-        if not self.is_trained:
+        if not self.is_trained or self.ensemble_model is None:
             raise ValueError("Model must be trained before making predictions")
         
         # Feature engineering for prediction data
@@ -382,6 +382,8 @@ class F1ChampionshipPredictor:
         season_2025_data = combined_data[combined_data['year'] == 2025]
         
         # Get predictions from ensemble model
+        if self.ensemble_model is None:
+            raise ValueError("Ensemble model is not available")
         probabilities = self.ensemble_model.predict_proba(X_pred)[:, 1]
         
         # Create results DataFrame
@@ -442,6 +444,23 @@ class F1ChampionshipPredictor:
         plt.tight_layout()
         
         return plt.gcf()
+
+    def predict_championship(self, season_data: pd.DataFrame) -> pd.DataFrame:
+        """Predict championship probabilities for drivers in given season data"""
+        if not self.is_trained:
+            raise ValueError("Model must be trained before making predictions")
+        
+        # Use existing method
+        return self.predict_champion_probabilities(season_data)
+    
+    def get_feature_importance(self) -> pd.DataFrame:
+        """Get feature importance DataFrame"""
+        if self.feature_importance is None:
+            raise ValueError("Feature importance not available. Train the model first.")
+        
+        if isinstance(self.feature_importance, pd.Series):
+            return self.feature_importance.to_frame('importance')
+        return self.feature_importance
 
 if __name__ == "__main__":
     # Example usage

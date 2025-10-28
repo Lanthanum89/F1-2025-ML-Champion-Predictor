@@ -8,6 +8,39 @@ A comprehensive machine learning system to predict the Formula 1 2025 World Cham
 
 This project uses historical F1 data from 2010-2024 to train multiple machine learning models that predict championship probabilities for the 2025 F1 season. The system combines data collection, feature engineering, model training, and prediction visualization in a complete ML pipeline.
 
+## 📸 Visual Previews
+
+Below are a few auto-generated visuals saved under `assets/` to give a quick feel for the outputs. Regenerate them anytime with:
+
+```bash
+# optional: from repo root
+python scripts/generate_readme_images.py
+```
+
+### Top 10 Predicted Contenders
+
+![Top 10 Predicted Contenders](assets/top10_probabilities.png)
+
+### Model vs Calibrated Probabilities
+
+![Model vs Calibrated Probabilities](assets/calibrated_vs_model_top10.png)
+
+### Current 2025 Standings (snapshot)
+
+![2025 Current Standings Top 12](assets/current_standings_top12.png)
+
+### Head-to-head swing (Race 1 heatmap)
+
+This heatmap shows how a single race outcome (Race 1), with other races held neutral, swings the points difference between the current top two.
+
+![H2H Race 1 Heatmap](assets/h2h_swing_heatmap_race1.png)
+
+### Model minus Monte Carlo (Top 10)
+
+Compares the model’s probability vs a simple Monte Carlo based on points-per-race skill. Positive bars mean the model is higher than MC.
+
+![Model minus MC (Top 10)](assets/model_minus_mc_top10.png)
+
 ## ✨ Features
 
 - **Automated Data Collection**: Fetches historical F1 data from the Ergast API
