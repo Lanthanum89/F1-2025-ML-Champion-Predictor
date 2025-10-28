@@ -189,11 +189,11 @@ The model provides:
 
 ```text
 TOP 5 CHAMPIONSHIP CONTENDERS
-1. Max Verstappen (Red Bull)     - 45.2% (Odds: 2.2/1)
-2. Charles Leclerc (Ferrari)     - 18.7% (Odds: 5.3/1)
-3. Lewis Hamilton (Mercedes)     - 12.4% (Odds: 8.1/1)
-4. Lando Norris (McLaren)        - 8.9%  (Odds: 11.2/1)
-5. George Russell (Mercedes)     - 6.1%  (Odds: 16.4/1)
+1. Lando Norris (McLaren)        - 52.0% (Odds: 1.0/1)
+2. Oscar Piastri (McLaren)       - 48.0% (Odds: 1.1/1)
+3. Max Verstappen (Red Bull)     - 15.2% (Odds: 5.6/1)
+4. George Russell (Mercedes)     - 8.4%  (Odds: 11.0/1)
+5. Charles Leclerc (Ferrari)     - 6.1%  (Odds: 15.4/1)
 ```
 
 ## 📊 Data Sources
